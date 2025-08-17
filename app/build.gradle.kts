@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.jju1c3.noizy"
+    namespace = "com.nemesis.mocktraffic"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.jju1c3.noizy"
+        applicationId = "com.nemesis.mocktraffic"
         minSdk = 24
         targetSdk = 34
         versionCode = 2
