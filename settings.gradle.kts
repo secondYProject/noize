@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MockTraffic"
+rootProject.name = "Noizy"
 include(":app")
