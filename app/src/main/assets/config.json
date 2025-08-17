@@ -28,10 +28,10 @@
         "https://www.sports.ru"   
     ],
     "blacklisted_urls": [
-       "https://www.facebook.com",
-       "https://www.instagram.com",
-       "https://twitter.com",
-       "https://www.linkedin.com",
+        "https://www.facebook.com",
+        "https://www.instagram.com",
+        "https://twitter.com",
+        "https://www.linkedin.com",
         "https://t.co",
         "t.umblr.com",
         "messenger.com",
