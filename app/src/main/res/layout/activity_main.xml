@@ -8,7 +8,7 @@
         android:id="@+id/trafficCheckBox"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Enable Traffic Generation"
+        android:text="Включить генерацию траффика"
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true" />
 
@@ -17,7 +17,7 @@
         android:id="@+id/statusTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Traffic Generation Disabled"
+        android:text="Генерация траффика отключена"
         android:layout_below="@id/trafficCheckBox"
         android:layout_marginTop="16dp"
         android:layout_centerHorizontal="true" />
@@ -27,7 +27,7 @@
         android:id="@+id/trafficStatsTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Traffic Stats: 0 requests"
+        android:text="Статистика: 0 запросов"
         android:layout_below="@id/statusTextView"
         android:layout_marginTop="16dp"
         android:layout_centerHorizontal="true" />
